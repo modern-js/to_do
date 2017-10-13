@@ -1,0 +1,21 @@
+body{
+    background-color:#303133; 
+    color:rgb(230, 119, 29);
+    padding:100px 10px;
+}
+#container{
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border:7px solid rgb(163, 154, 154);
+    border-bottom-right-radius: 2em;
+    border-bottom-left-radius: 2em;
+    border-top-right-radius: 2em;
+    border-top-left-radius: 2em;
+}
+#display{
+    width:350x;
+    height: 500px;
+
+}
